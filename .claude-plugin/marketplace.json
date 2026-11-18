@@ -1,0 +1,16 @@
+{
+  "name": "tuneviq",
+  "owner": {
+    "name": "EASYY Technologies s.r.o."
+  },
+  "metadata": {
+    "description": "Plugins for working with your own Tuneviq installation."
+  },
+  "plugins": [
+    {
+      "name": "tuneviq",
+      "source": "./tuneviq",
+      "description": "Read-only access to your Tuneviq installation for SQL Server performance questions."
+    }
+  ]
+}

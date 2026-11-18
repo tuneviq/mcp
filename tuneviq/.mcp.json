@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "tuneviq": {
+      "type": "http",
+      "url": "${TUNEVIQ_MCP_URL}",
+      "headers": {
+        "Authorization": "Bearer ${TUNEVIQ_MCP_TOKEN}"
+      }
+    }
+  }
+}

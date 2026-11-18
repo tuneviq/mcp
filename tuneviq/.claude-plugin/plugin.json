@@ -1,0 +1,10 @@
+{
+  "name": "tuneviq",
+  "version": "0.1.0",
+  "description": "Ask Claude Code about SQL Server query performance, findings and fix proposals through your own Tuneviq installation (read-only MCP connector).",
+  "author": {
+    "name": "EASYY Technologies s.r.o."
+  },
+  "license": "MIT",
+  "keywords": ["sql-server", "performance", "mcp", "tuneviq"]
+}
